@@ -1,0 +1,11 @@
+D:\c#\light-map\bin\Debug\netcoreapp3.1\light-map.exe
+D:\c#\light-map\bin\Debug\netcoreapp3.1\light-map.deps.json
+D:\c#\light-map\bin\Debug\netcoreapp3.1\light-map.runtimeconfig.json
+D:\c#\light-map\bin\Debug\netcoreapp3.1\light-map.runtimeconfig.dev.json
+D:\c#\light-map\bin\Debug\netcoreapp3.1\light-map.dll
+D:\c#\light-map\bin\Debug\netcoreapp3.1\light-map.pdb
+D:\c#\light-map\obj\Debug\netcoreapp3.1\light-map.csprojAssemblyReference.cache
+D:\c#\light-map\obj\Debug\netcoreapp3.1\light-map.AssemblyInfoInputs.cache
+D:\c#\light-map\obj\Debug\netcoreapp3.1\light-map.AssemblyInfo.cs
+D:\c#\light-map\obj\Debug\netcoreapp3.1\light-map.dll
+D:\c#\light-map\obj\Debug\netcoreapp3.1\light-map.pdb
